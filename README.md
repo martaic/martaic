@@ -60,7 +60,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/marta-i%C3%B1igo-casado-a1648782/" target="_blank">
-<img src="https://img.shields.io/badge/" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: Marta Iñigo Casado-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
