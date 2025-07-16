@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, Me llama Marta Iñigo Casado </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-
+<br><br>
 
 
 - Desarrolladora Full Stack autodidacta y apasionada por la tecnología
@@ -54,11 +54,7 @@
 
 <br>
 
-
-<br>
-<br>
-
------
+----
 
 ## <b> Mi contacto</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -74,8 +70,6 @@
 
 <br>
 
-
-<br>
 
 <li>
 <a href="martainigocasado@gmail.com" target="_blank">
