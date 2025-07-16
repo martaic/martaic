@@ -3,7 +3,7 @@
 
 
 
-- Desarrolladora Front-end autodidacta y apasionada por la tecnología
+- Desarrolladora Full Stack autodidacta y apasionada por la tecnología
 - Actualmente ampliando mis conocimientos en desarrollo web
 - Acabo de finalizar un curso de Desarrollador Full Stack y estoy abierto a oportunidades como becaria o desarrolladora junior.
 
@@ -60,7 +60,7 @@
 
 -----
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Mi contacto</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
