@@ -3,8 +3,8 @@
 <br><br>
 
 
-- Desarrolladora Full-Stack con experiencia en JavaScript, React, Python y SQL.  Sólida formación previa en comunicación
- digital y gestión de la información. Acabo de finalizar un curso de Desarrollador Full Stack y estoy abierto a oportunidades
+Desarrolladora Full-Stack con experiencia en JavaScript, React, Python y SQL.  Sólida formación previa en comunicación
+digital y gestión de la información. Acabo de finalizar un curso de Desarrollador Full Stack y estoy abierto a oportunidades
 como becaria o desarrolladora junior.
 
 
